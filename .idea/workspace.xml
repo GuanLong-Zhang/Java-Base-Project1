@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e712df-08dc-4b6e-941c-0f612cdf4f2e" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperatorScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperatorTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Order1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +47,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Array">
+  <component name="RunManager" selected="应用程序.Method">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="Java-Base-Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScannerDemo" />
-      <module name="Java-Base-Project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Method" />
         <item itemvalue="应用程序.Array" />
         <item itemvalue="应用程序.Order1" />
         <item itemvalue="应用程序.Order" />
         <item itemvalue="应用程序.OperatorScannerTest" />
-        <item itemvalue="应用程序.ScannerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +103,7 @@
       <updated>1698997424355</updated>
       <workItem from="1698997425659" duration="1800000" />
       <workItem from="1699003200848" duration="699000" />
-      <workItem from="1699066695265" duration="32644000" />
+      <workItem from="1699066695265" duration="41017000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699087236169</created>
@@ -119,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699087236169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1699242069673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699242069673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
