@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e712df-08dc-4b6e-941c-0f612cdf4f2e" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Virable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,50 +41,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.Operator">
-    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constant" />
+}</component>
+  <component name="RunManager" selected="应用程序.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conversion" />
+    <configuration name="OperatorScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorScannerTest" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Order" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
+    <configuration name="Order1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Order1" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Virable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Virable" />
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerDemo" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Operator" />
-        <item itemvalue="应用程序.Conversion" />
-        <item itemvalue="应用程序.Virable" />
-        <item itemvalue="应用程序.Constant" />
-        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="应用程序.Array" />
+        <item itemvalue="应用程序.Order1" />
+        <item itemvalue="应用程序.Order" />
+        <item itemvalue="应用程序.OperatorScannerTest" />
+        <item itemvalue="应用程序.ScannerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -108,8 +110,16 @@
       <updated>1698997424355</updated>
       <workItem from="1698997425659" duration="1800000" />
       <workItem from="1699003200848" duration="699000" />
-      <workItem from="1699066695265" duration="10805000" />
+      <workItem from="1699066695265" duration="32644000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1699087236169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699087236169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
