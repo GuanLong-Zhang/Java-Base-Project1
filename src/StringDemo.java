@@ -10,5 +10,13 @@ public class StringDemo {
         System.out.println("s2:" + s2);
         String s3 = "abc";                //直接赋值
         System.out.println("s3:" + s3);
+
+        //String对象的特点
+        String s4 = new String(chs);    //通过new创建的字符串对象，内容虽然相同，但是每一次的地址都是不同的
+        String s5 = new String(chs);
+        System.out.println(s4 == s5);   //false
+        String s6 = "abc";
+        String s7 = "abc";
+        System.out.println(s6 == s7);   //通过" "创建的字符串对象，只要字符序列相同，那么他们的地址就都一样
     }
 }
