@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e712df-08dc-4b6e-941c-0f612cdf4f2e" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Private.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrivateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Private.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrivateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrivateDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.PhoneDemo">
-    <configuration name="PhoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhoneDemo" />
-      <module name="Java-Base-Project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Private" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Private" />
-      <module name="Java-Base-Project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Virable">
     <configuration name="PrivateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrivateDemo" />
       <module name="Java-Base-Project1" />
@@ -74,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Student" />
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerDemo" />
+      <module name="Java-Base-Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Virable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Virable" />
+      <module name="Java-Base-Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.PhoneDemo" />
+        <item itemvalue="应用程序.Virable" />
         <item itemvalue="应用程序.StudentDemo" />
+        <item itemvalue="应用程序.StringDemo" />
+        <item itemvalue="应用程序.ScannerDemo" />
         <item itemvalue="应用程序.PrivateDemo" />
-        <item itemvalue="应用程序.Private" />
-        <item itemvalue="应用程序.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +106,7 @@
       <workItem from="1698997425659" duration="1800000" />
       <workItem from="1699003200848" duration="699000" />
       <workItem from="1699066695265" duration="41335000" />
-      <workItem from="1699277735174" duration="15562000" />
+      <workItem from="1699277735174" duration="19623000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699087236169</created>
@@ -139,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699326988146</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1699356408429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699356408429</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
