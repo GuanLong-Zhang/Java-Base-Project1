@@ -1,4 +1,4 @@
-//ArrayList可以改变大小的数组
+//ArrayList 可以改变大小的数组
 import java.util.ArrayList;
 public class ArrayListDemo {
     public static void main(String[] args){
