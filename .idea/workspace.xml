@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e712df-08dc-4b6e-941c-0f612cdf4f2e" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StingBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.StringTest">
-    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScannerDemo" />
+  <component name="RunManager" selected="应用程序.StringBuilderTest">
+    <configuration name="StingBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StingBuilderDemo" />
+      <module name="Java-Base-Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuilderTest" />
       <module name="Java-Base-Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentDemo" />
-      <module name="Java-Base-Project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Virable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Virable" />
       <module name="Java-Base-Project1" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StringBuilderTest" />
+        <item itemvalue="应用程序.StingBuilderDemo" />
         <item itemvalue="应用程序.StringTest" />
         <item itemvalue="应用程序.StringDemo" />
         <item itemvalue="应用程序.Virable" />
-        <item itemvalue="应用程序.StudentDemo" />
-        <item itemvalue="应用程序.ScannerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,7 @@
       <workItem from="1698997425659" duration="1800000" />
       <workItem from="1699003200848" duration="699000" />
       <workItem from="1699066695265" duration="41335000" />
-      <workItem from="1699277735174" duration="26069000" />
+      <workItem from="1699277735174" duration="29432000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699087236169</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699362481439</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add">
+      <created>1699410206045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699410206045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
